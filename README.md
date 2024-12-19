@@ -14,3 +14,4 @@
 12. [임베디드시스템 12주차 개인프로젝트 진행보고서#2](https://github.com/nalynn0517/Embedded_System/wiki/Embedded_System_12)
 13. [임베디드시스템 13주차 개인프로젝트 진행보고서#3](https://github.com/nalynn0517/Embedded_System/wiki/Embedded_System_13)
 14. [임베디드시스템 14주차 개인프로젝트 진행보고서#4](https://github.com/nalynn0517/Embedded_System/wiki/Embedded_System_14)
+15. [임베디드시스템 최종보고서](https://github.com/nalynn0517/Embedded_System/wiki/Embedded_System_Final)
